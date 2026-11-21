@@ -6,10 +6,7 @@
 ![Security Operations](https://img.shields.io/badge/Endpoint-Security_Monitoring-187E6B?style=for-the-badge)
 
 **Project type:** Personal cybersecurity home lab  
-**Investigator:** Alexander Cox  
 **Platform:** Action1 cloud endpoint and patch management  
-**Evidence period:** November 2026  
-**Source:** `Cyber Home Lab Doc 1.docx` (original Action1 screenshots `image131.png`–`image151.png`)
 
 ## Project overview
 
