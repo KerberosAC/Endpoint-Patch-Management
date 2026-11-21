@@ -427,9 +427,6 @@ Get-HotFix | Sort-Object InstalledOn -Descending | Select-Object -First 10
 | Medium | Monitor agent connectivity, failed automations and inventory staleness | Detect endpoints that silently fall out of management |
 
 ## Screenshot inventory
-
-All **21 Action1-related screenshots** from the source sequence (`image131.png`–`image151.png`) are included in their corresponding sections. The final Windows Recent view is included as supporting context because it displays the application used for software distribution. The unrelated **VirusTotal** screenshot `image130.png` was deliberately excluded.
-
 The full mapping from original source number to GitHub filename is in **[SCREENSHOT-GUIDE.md](SCREENSHOT-GUIDE.md)**. A small organization identifier was concealed in the Linux agent wizard image for safer public sharing; the enrollment token was already masked in the original capture.
 
 ## References
